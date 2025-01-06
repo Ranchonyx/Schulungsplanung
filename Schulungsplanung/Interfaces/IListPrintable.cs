@@ -1,6 +1,6 @@
-﻿namespace Schulungsplanung;
+﻿namespace Schulungsplanung.Interfaces;
 
 public interface IListPrintable
 {
-    void PrintList();
+    public void PrintList();
 }

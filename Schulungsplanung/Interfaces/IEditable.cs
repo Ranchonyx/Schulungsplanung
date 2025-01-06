@@ -1,4 +1,4 @@
-﻿namespace Schulungsplanung;
+﻿namespace Schulungsplanung.Interfaces;
 
 public interface IEditable
 {
